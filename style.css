@@ -1,4 +1,4 @@
-/* #transition-container {
+#transition-container {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -23,8 +23,8 @@ button {
 
 button:hover {
   transform: scale(1.5);
-} */
-/* 
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -89,7 +89,7 @@ button {
 
 .backdrop.show {
   opacity: 30%;
-} */
+}
 
 .dropdown-container {
   max-width: 250px;
